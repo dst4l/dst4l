@@ -1,0 +1,3 @@
+# dst4l
+Website for DST4L - Data Scientist Training for Librarians.
+denne web er lavet med Jekyll, GitHub pages, bootstrap templates ....
