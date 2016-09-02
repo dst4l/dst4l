@@ -1,0 +1,67 @@
+---
+layout: default
+---
+
+        <div id="content" class="team-member-detail">
+            <div class="container">
+                <section>
+                    <div class="row">
+                        <div class="col-md-12">
+                            <div class="heading">
+                                <h2>About {{ page.shortname }} </h2>
+                            </div>
+                            <p class="lead">
+                                {{ page.lead }}
+                            </p>
+                        </div>
+                    </div>
+
+                    <div class="row">
+                        <div class="col-md-8">
+                                {{ content }}
+
+                        </div>
+
+                        <div class="col-md-4">
+                            <img class="img-responsive img-circle" alt="" src="{{ page.image }}">
+                        </div>
+                    </div>
+                </section>
+
+                <section>
+                    <div class="row">
+
+                        <div class="col-md-4">
+                            <div class="heading">
+                                <h3>Get in touch with {{ page.shortname }}</h3>
+                            </div>
+
+                            <div class="social">
+                                <a href="#" class="external facebook" data-animate-hover="pulse"><i class="fa fa-facebook"></i></a>
+                                <a href="#" class="external gplus" data-animate-hover="pulse"><i class="fa fa-google-plus"></i></a>
+                                <a href="#" class="external twitter" data-animate-hover="pulse"><i class="fa fa-twitter"></i></a>
+                                <a href="#" class="email" data-animate-hover="pulse"><i class="fa fa-envelope"></i></a>
+                            </div>
+                        </div>
+
+                        <div class="col-md-4">
+                            <div class="heading">
+                                <h3>{{ page.shortname }}'s presentations</h3>
+                            </div>
+
+                            <ul class="ul-icons">
+                                <li><i class="fa fa-check"></i><a href="#">Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</a>
+                                </li>
+                                <li><i class="fa fa-check"></i><a href="#">Aliquam tincidunt mauris eu risus.</a>
+                                </li>
+                                <li><i class="fa fa-check"></i><a href="#">Vestibulum auctor dapibus neque.</a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </section>
+            </div>
+            <!-- /.container -->
+
+        </div>
+        <!-- /#content -->
