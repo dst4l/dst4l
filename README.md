@@ -3,35 +3,76 @@ Website for DST4L - Data Scientist Training for Librarians.
 denne web er lavet med Jekyll, GitHub pages, bootstrap templates ....
 
 
-
-
 ## Guide to using and maintaining this website
 
 ### Simple usage
 
 Adding or changing a simple file can be done directly via Github.
 
-...
-
 
 ### Edit and preview localy on your own PC
 
 #### Install Jekyll
 
-[Installing Jekyll on Windows](http://jekyll.tips/jekyll-casts/install-jekyll-on-windows/)
+See [Installing Jekyll on Windows](http://jekyll.tips/jekyll-casts/install-jekyll-on-windows/)
 
 
 #### Fork and Clone the github repo.
 
-TODO....
 
 #### Run Jekyll locally to preview changes
 
-TODO....
+    jekyll serve --watch
 
 #### Commit and make a pull-request
 
-TODO....
+
+### Page types
+
+#### Regular pages
+
+HTML and Markdown pages can be added to the root of the repository. They will automatically be added to the menu.
+All pages should start with metadata in Jekyll YAML format:
+
+    ---
+    title: Example Page
+    ---
+
+    This is an example page
+
+#### Speaker pages
+
+Each speaker should have a page in the `_speakers` directory. A speaker page should start with ta set of speaker specific metadata:
+
+    ---
+    speaker-id: johndoe
+    fullname: John Doe
+    shortname: John 
+    image: speaker.gif
+    affiliation: NSA
+    twitter: johndoe
+    email: "johndoe@nsa.gov"
+    github: johndoe
+    lead: "John is a leader in annonymity on the net, and IRL"
+    role: Placeholder
+    ---
+
+    A longer description of the speaker goes here...
+
+Hopefully most of the metadata is self explanatory. The `speaker-id`should be unique, and is used as reference from events (presenetations/workshops)
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
