@@ -1,6 +1,6 @@
 ---
 speaker-id: rebekah
-title: Assistant Professor
+title: Rebekah K. Tromble
 fullname: Rebekah K. Tromble
 shortname: Rebekah
 image: rebekah.jpg
