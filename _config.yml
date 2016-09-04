@@ -34,3 +34,32 @@ github_username:  dst4l
 # Build settings
 markdown: kramdown
 #theme: minima
+#
+
+# Collections : (see http://jekyllrb.com/docs/collections/)
+
+collections:
+  events:
+    output: true
+  sessions:
+    output: true
+  speakers:
+    output: true
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "speakers"
+    values:
+      layout: "speaker"
+      image: "speaker.gif"
+      role: "Speaker"
+      main_nav: false
+  -
+    scope:
+      path: ""
+      type: "events"
+    values:
+      layout: "event"
+      main_nav: false

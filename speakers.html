@@ -1,0 +1,73 @@
+---
+title: Speakers
+layout: base
+---
+
+
+<div id="heading-breadcrumbs">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-7">
+                <h1>Speakers &amp; Trainers</h1>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id="content">
+    <div class="container">
+
+        <section>
+
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="heading">
+                        <h2>Speakers at the upcomming DST4L Event</h2>
+                    </div>
+
+                    <p class="lead">Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean
+                        ultricies mi vitae est. Mauris placerat eleifend leo.</p>
+                </div>
+            </div>
+
+            <div class="row">
+
+            {% for speaker in site.speakers %}
+
+                <div class="col-md-3 col-sm-3">
+                    <div class="team-member" data-animate="fadeInUp">
+                        <div class="image">
+                            <a href="{{ speaker.url | prepend: site.github.url }}">
+                                <img src="speakers/{{speaker.image}}" alt="" class="img-responsive img-circle">
+                            </a>
+                        </div>
+                        <h3><a href="{{ speaker.url | prepend: site.github.url }}">{{speaker.fullname}}</a></h3>
+                        <p class="role">{{speaker.role}}</p>
+                        <div class="social">
+                            <a href="http://www.github.com/{{speaker.github}}" class="external github" data-animate-hover="pulse"><i class="fa fa-github"></i></a>
+                            <a href="https://www.facebook.com/{{speaker.facebook}}" class="external facebook" data-animate-hover="pulse"><i class="fa fa-facebook"></i></a>
+                            <a href="http://www.twitter.com/{{speaker.twitter}}" class="external twitter" data-animate-hover="pulse"><i class="fa fa-twitter"></i></a>
+                            <a href="mailto:{{speaker.email}}" class="email" data-animate-hover="pulse"><i class="fa fa-envelope"></i></a>
+                        </div>
+                        <div class="text">
+                            <p>{{speaker.lead}}.</p>
+                            <p>
+                            </p>
+
+                        </div>
+                    </div>
+                    <!-- /.team-member -->
+                </div>
+
+            {% endfor %}
+
+
+
+            </div>
+            <!-- /.row -->
+
+
+        </section>
+
+    </div>
+    <!-- /.container -->
