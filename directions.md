@@ -58,6 +58,13 @@ DST4L is located in the main library building at DTU. [See the map for location]
 To get to DTU catch the 150S or 173E from there to Rævehøj/DTU and follow the crowd on foot towards DTU.
 Read  more details here: [http://www.dtu.dk/english/About/Practical-information/Directions/DTU-Lyngby-Campus](http://www.dtu.dk/english/About/Practical-information/Directions/DTU-Lyngby-Campus)
 
+[![DTU Library](img/lyngby_kort_uk.png){:width="600px"}](img/lyngby_kort_uk.png)
+
+[Full size](img/lyngby_kort_uk.png)
+
+
+
+
 ## Accomodation
 
 The Technical University of Denmark is situated just 15 km North of the city of Copenhagen.
