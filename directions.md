@@ -6,7 +6,7 @@ main_nav: false
 
 # DST4L - Practical information
 
-This guide will provide you with information about how to get to DST4L in Copenhagen 9 – 11 September 2015.
+This guide will provide you with information about how to get to DST4L in Copenhagen from 7th to 9th of December 2016.
 
 * How to get around in general
 * How to get to Copenhagen from the Airport
@@ -27,14 +27,14 @@ There are two ways to transport yourself around in Copenhagen. By public transpo
     * Metro - two lines M1 and M2
       * most important is line M2 which connects to the airport
       * The metro operates 24/7
-      * Btw. if you see a contruction site in the city of Copenhagen it is probably related to the undergoing expansion of the Metro in Copenhagen.
+      * Btw. if you see a construction site in the city of Copenhagen it is probably related to the undergoing expansion of the Metro in Copenhagen.
 
     * S-tog (City train)
       * S-tog connects most of the major Copenhagen with train lines
       * Most important line is Line A and E that connects the Central Station (Hovedbanegården) and Nørreport with Lyngby (where DTU is located)
 
     * Busses
-      * Copenhagen is connected with a vast network of busses
+      * Copenhagen is connected with a vast network of Busses
       * Most important bus lines are 150S and 173E that brings you from the main hub Nørreport to DTU.
 
 * Information about tickets and prices for public transportation
@@ -50,7 +50,7 @@ There are two ways to transport yourself around in Copenhagen. By public transpo
 
 Copenhagen airport is well connected with bus, train and metro lines going to the city.
 On the Copenhagen Airport web site you find more information: [http://www.cph.dk/en/parking-transport/bus-train-metro/](http://www.cph.dk/en/parking-transport/bus-train-metro/)
-If you are going straight to DTU from the Airport catch the M2 to Nørreport and catch 150S or 173E from there to Rævehøj/DTU. Check the details here: [http://www.dtu.dk/english/About/Practical-information/Directions/DTU-Lyngby-Campus/public-transportation](http://www.dtu.dk/english/About/Practical-information/Directions/DTU-Lyngby-Campus/public-transportation) . It takes approx. 54 minutes.
+If you are going straight to DTU from the Airport catch the M2 to Nørreport and catch 150S or 173E from there to Rævehøjvej/DTU. Check the details here: [http://www.dtu.dk/english/About/Practical-information/Directions/DTU-Lyngby-Campus/public-transportation](http://www.dtu.dk/english/About/Practical-information/Directions/DTU-Lyngby-Campus/public-transportation) . It takes approx. 54 minutes.
 
 ## How to get to the Technical University of Denmark (DTU) and DTU Library
 
@@ -69,4 +69,4 @@ If you still prefer to stay in Lyngby – your best alternative is Bed and Break
 
 ## Programme
 The always up-to-date programme can be found here: [http://www.dst4l.info/schedule/](http://www.dst4l.info/schedule/)
-Most importantly to know is that we start everyday 9.00 am sharp and that DST4L ends on the 9th of December at 16.00.
+Most importantly to know is that we start everyday at 9.00 am sharp and that DST4L ends on the 9th of December at 16.00.
