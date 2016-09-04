@@ -14,6 +14,6 @@ Building 101D \\
 2800 Kgs. Lyngby  \\
 <bibliotek@dtu.dk> \\
 Phone: 45 25 72 00 \\
-[http://www.bibliotek.dtu.dk](http://www.bibliotek.dtu.dk/) \\
+[http://www.bibliotek.dtu.dk](http://www.bibliotek.dtu.dk/) 
 
 [Directions/Practical Information](directions.html)
