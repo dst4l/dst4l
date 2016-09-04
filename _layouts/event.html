@@ -2,6 +2,9 @@
 layout: default
 ---
 
+{% assign speaker =  site.speakers | where:"speaker-id",page.speaker |  first %} 
+
+
 <h1>{{page.title}}</h1>
 <h2>{{page.subtitle}}</h2>
 <i>
@@ -11,7 +14,7 @@ layout: default
 </i>
 <br>
 <b>
-{{page.speaker}} 
+<i> <a href="{{ speaker.url | prepend: site.github.url }}">{{speaker.title}}</a> </i>
 </b>
 
 <!-- CONTENT BEGIN  _________________________________________________________ -->

@@ -1,5 +1,5 @@
 ---
-speakerid: johndoe
+speaker-id: johndoe
 title: John Doe
 fullname: John Doe
 shortname: John 

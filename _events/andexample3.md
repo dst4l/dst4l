@@ -5,7 +5,6 @@ location: DTU Library
 speaker: johndoe
 eventdate: "December 7th, 2016"
 eventtime: "13:00-15:00"
-sortorder: 201612071300
 ---
 
 Number 3

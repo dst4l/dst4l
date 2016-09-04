@@ -2,10 +2,9 @@
 title: Example Talk Four day 2
 subtitle: This Talk is just an example.
 location: DTU Library
-speaker: johndoe
+speaker: jeek
 eventdate: "December 8th, 2016"
 eventtime: "09:00-15:00"
-sortorder: 201612080900
 ---
 
 Number 4

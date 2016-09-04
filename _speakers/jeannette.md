@@ -1,4 +1,5 @@
 ---
+speaker-id: jeek
 title: Jeannette Ekstrøm
 fullname: Jeannette Ekstrøm
 shortname: Jeannette 

@@ -47,11 +47,15 @@ layout: default
 
                         <div class="col-md-4">
                             <div class="heading">
-                                <h3>{{ page.shortname }}'s presentations</h3>
+                                <h3>{{ page.shortname }}'s Workshops</h3>
                             </div>
                             <ul class="ul-icons">
-                                <li><i class="fa fa-check"></i><a href="#">Presentation 1</a></li>
-                                <li><i class="fa fa-check"></i><a href="#">Presentation 2</a></li>
+                                {% assign workshops =  site.events | where:"speaker",page.speaker-id  %} 
+                                {% for workshop in  workshops  %}
+                                    <li><i class="fa fa-check"></i>
+                                        <a href="{{ workshop.url | prepend: site.github.url }}">{{workshop.title}}</a> 
+                                    </li>
+                                {% endfor %}
                             </ul>
                         </div>
                     </div>
