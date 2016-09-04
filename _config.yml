@@ -39,8 +39,12 @@ markdown: kramdown
 # Collections : (see http://jekyllrb.com/docs/collections/)
 
 collections:
+  events:
+    output: true
+  sessions:
+    output: true
   speakers:
-      output: true
+    output: true
 
 defaults:
   -
@@ -51,4 +55,11 @@ defaults:
       layout: "speaker"
       image: "speaker.gif"
       role: "Speaker"
-
+      main_nav: false
+  -
+    scope:
+      path: ""
+      type: "events"
+    values:
+      layout: "event"
+      main_nav: false

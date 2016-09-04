@@ -37,20 +37,23 @@ layout: base
                 <div class="col-md-3 col-sm-3">
                     <div class="team-member" data-animate="fadeInUp">
                         <div class="image">
-                            <a href="{{speaker.url}}">
+                            <a href="{{ speaker.url | prepend: site.github.url }}">
                                 <img src="speakers/{{speaker.image}}" alt="" class="img-responsive img-circle">
                             </a>
                         </div>
-                        <h3><a href="{{speaker.url}}">{{speaker.fullname}}</a></h3>
+                        <h3><a href="{{ speaker.url | prepend: site.github.url }}">{{speaker.fullname}}</a></h3>
                         <p class="role">{{speaker.role}}</p>
                         <div class="social">
-                            <a href="#" class="external facebook" data-animate-hover="pulse"><i class="fa fa-facebook"></i></a>
-                            <a href="#" class="external gplus" data-animate-hover="pulse"><i class="fa fa-google-plus"></i></a>
-                            <a href="#" class="external twitter" data-animate-hover="pulse"><i class="fa fa-twitter"></i></a>
-                            <a href="#" class="email" data-animate-hover="pulse"><i class="fa fa-envelope"></i></a>
+                            <a href="http://www.github.com/{{speaker.github}}" class="external github" data-animate-hover="pulse"><i class="fa fa-github"></i></a>
+                            <a href="https://www.facebook.com/{{speaker.facebook}}" class="external facebook" data-animate-hover="pulse"><i class="fa fa-facebook"></i></a>
+                            <a href="http://www.twitter.com/{{speaker.twitter}}" class="external twitter" data-animate-hover="pulse"><i class="fa fa-twitter"></i></a>
+                            <a href="mailto:{{speaker.email}}" class="email" data-animate-hover="pulse"><i class="fa fa-envelope"></i></a>
                         </div>
                         <div class="text">
                             <p>{{speaker.lead}}.</p>
+                            <p>
+                            </p>
+
                         </div>
                     </div>
                     <!-- /.team-member -->

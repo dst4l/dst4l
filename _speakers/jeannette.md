@@ -1,13 +1,12 @@
 ---
-main_nav: false
 title: Jeannette Ekstrøm
 fullname: Jeannette Ekstrøm
 shortname: Jeannette 
 image: je.jpg
 affiliation: DTU Library
-twitter: bibelib
+twitter: JEkstroem 
 email: jeek@dtu.dk
-github: jeannettee.github.com
+github: jeannettee
 lead: Short introduction goes here
 role: Organizer
 ---
