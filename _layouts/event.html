@@ -1,26 +1,30 @@
 ---
 layout: default
 ---
-
 {% assign speaker =  site.speakers | where:"speaker-id",page.speaker |  first %} 
 
 
-<h1>{{page.title}}</h1>
-<h2>{{page.subtitle}}</h2>
-<i>
-{{page.eventdate}} 
-- {{page.eventtime}}
-- {{page.location}}
-</i>
-<br>
-<b>
-<i> <a href="{{ speaker.url | prepend: site.github.url }}">{{speaker.title}}</a> </i>
-</b>
 
-<!-- CONTENT BEGIN  _________________________________________________________ -->
-<p>
-{{ content }}
 
+<p class="text-muted text-uppercase mb-small text-right">
+ By <a href="{{ speaker.url | prepend: site.github.url }}">{{speaker.title}}</a> 
+ | 
+ {{page.eventdate}} 
+ - {{page.eventtime}}
+ - {{page.location}}
 </p>
-<!-- CONTENT END  _________________________________________________________ -->
 
+<div class="row">
+    <div class="col-md-10">
+
+            <p class="lead">
+            {{page.subtitle}} 
+            </p>
+
+            {{ content }}
+    </div>
+
+<div class="col-md-2">
+    <img class="img-responsive img-circle" alt="" src="{{site.github.url}}/speakers/{{ speaker.image }}">
+</div>
+</div>
