@@ -1,9 +1,9 @@
 ---
-speaker-id: Chris
+speaker-id: chris
 title: Chris Erdmann
 fullname: Chris Erdmann
 shortname: Chris
-image: 
+image:
 affiliation: "NCSU (Raleigh, NC)"
 twitter:
 email: ccerdman@ncsu.edu

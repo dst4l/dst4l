@@ -1,8 +1,8 @@
 ---
 title: Pedro´s talk
-subtitle: working with Tableau to visualize data 
+subtitle: working with Tableau to visualize data
 location: DTU Library
-speaker: Pedro
+speaker: pedro
 eventdate: "December 9th, 2016"
 eventtime: "14.00-15:00"
 ---

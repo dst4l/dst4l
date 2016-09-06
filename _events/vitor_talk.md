@@ -2,7 +2,7 @@
 title: GitHub Workshop
 subtitle: scrapping data...
 location: DTU Library
-speaker: Vitor
+speaker: vitor
 speakers: Vitor, Kyle
 eventdate: "December 8th, 2016"
 eventtime: "09:00-12:00"

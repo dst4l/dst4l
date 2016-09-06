@@ -2,7 +2,7 @@
 title: Chris Erdmann´s talk
 subtitle: Kick off  
 location: DTU Library
-speaker: Chris
+speaker: chris
 eventdate: "December 7th, 2016"
 eventtime: "10.10-10.30"
 ---
