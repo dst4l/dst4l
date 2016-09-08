@@ -2,6 +2,8 @@
 Website for DST4L - Data Scientist Training for Librarians.
 denne web er lavet med Jekyll, GitHub pages, bootstrap templates ....
 
+The site is public at <http://dst4l.github.io> and eventually at <http://www.dst4l.info>
+
 
 ## Guide to using and maintaining this website
 
