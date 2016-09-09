@@ -20,7 +20,11 @@ title: Schedule
             {% for speakerid in event.speaker %}
                 {% assign speaker =  site.speakers | where:"speaker-id",speakerid |  first %} 
 
-                -  <a href="{{ speaker.url | prepend: site.github.url }}">{{speaker.title}}</a> 
+                -  <a href="{{ speaker.url | prepend: site.github.url }}">{{speaker.fullname}}</a> 
+
+                {% if speaker == null %}
+                {{ speakerid }}?
+                {% endif %}
 
             {% endfor %}
             </i>
@@ -28,3 +32,5 @@ title: Schedule
     {% endfor %}
 
 {% endfor %}
+
+<i>See also <a href="fullschedule.html">Detailed Schedule</a></i>

@@ -1,0 +1,49 @@
+---
+layout: default
+title: Detailed Schedule
+main_nav: false
+---
+
+
+<table class="table">
+
+{% assign grpevents = (site.events | group_by: 'eventdate' | sort: 'name' )  %}
+{% for day in  grpevents  %}
+<tr><th colspan=2>
+    <h3>{{day.name}}</h3>
+</th></tr>
+
+    {% assign sortedevents = (day.items | sort: 'eventtime'  )  %}
+    {% for event in  sortedevents  %}
+
+    <tr>
+
+        <td> {{event.eventtime}} </td>
+
+        <td> <h4> <a href="{{ event.url | prepend: site.github.url }}">{{event.title}}</a> </h4>
+
+            {% for speakerid in event.speaker %}
+                {% assign speaker =  site.speakers | where:"speaker-id",speakerid |  first %} 
+
+                <li> <a href="{{ speaker.url | prepend: site.github.url }}">{{speaker.fullname}}</a>
+                , <i>{{speaker.affiliation}}</i>
+
+                {% if speaker == null %}
+                {{ speakerid }}?
+                {% endif %}
+            {% endfor %}
+
+            <p> {{event.content}} </p>
+
+            <p><strong>Location: {{event.location}}</strong></p>
+
+
+
+        </td>
+
+    </tr>
+    {% endfor %}
+
+{% endfor %}
+
+</table>
