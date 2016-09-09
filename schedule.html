@@ -11,12 +11,19 @@ title: Schedule
     {% assign sortedevents = (day.items | sort: 'eventtime'  )  %}
     {% for event in  sortedevents  %}
 
-        {% assign speaker =  site.speakers | where:"speaker-id",event.speaker |  first %} 
 
         <h4>
             {{event.eventtime}} 
             - <a href="{{ event.url | prepend: site.github.url }}">{{event.title}}</a>
-            <i> - <a href="{{ speaker.url | prepend: site.github.url }}">{{speaker.title}}</a> </i>
+            <i>
+
+            {% for speakerid in event.speaker %}
+                {% assign speaker =  site.speakers | where:"speaker-id",speakerid |  first %} 
+
+                -  <a href="{{ speaker.url | prepend: site.github.url }}">{{speaker.title}}</a> 
+
+            {% endfor %}
+            </i>
         </h4>
     {% endfor %}
 
