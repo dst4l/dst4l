@@ -1,14 +1,14 @@
 ---
-speaker-id: Vanessa
-title: Vanessa Proudman
-fullname: Vanessa Proudman
-shortname: Vanessa
+speaker-id: ??
+title: to be announced
+fullname:
+shortname:
 image: speaker.gif
-affiliation: Proud2Know
-twitter: proud2know
-email: vproudman@proud2know.eu
+affiliation:
+twitter:
+email:
 lead: Short introduction goes here
-role: Workshop facilitator
+role: Workshop trainer
 ---
 
 Longer introduction goes here Lorem ipsum kja sdfkjh askhj akjsh flkjahs
