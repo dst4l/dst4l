@@ -1,13 +1,13 @@
 ---
-title: Vanessa Proudmann´s talk
-subtitle: Setting the scene - talking about champion librarianship
+title: to be announced ....
+subtitle: ....
 location: DTU Library
-speaker: Vanessa
+speaker: ??
 eventdate: "December 7th, 2016"
-eventtime: "10.30-11.30"
+eventtime: "10.30-12.00"
 ---
 
-waiting for final confirmation from Vanessa - we hope & hope
+waiting for final confirmation
 
 Talk is about Lorem ipsum lhjas fkjh askljdfh aklsjhf kajhs fkjahsd fkjhas kjhasdf
 aksjh flkjahs fkjhas dfk jhas dfkjhaskljdfa
