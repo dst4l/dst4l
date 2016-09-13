@@ -4,10 +4,10 @@ subtitle: Kick off
 location: DTU Library
 speaker: chris
 eventdate: "December 7th, 2016"
-eventtime: "10.10-10.30"
+eventtime: "10.05-10.30"
 ---
 
-waiting for final confirmation from Chris - we hope & hope
+Final confirmation from Chris Erdmann - jubii
 
 Talk is about Lorem ipsum lhjas fkjh askljdfh aklsjhf kajhs fkjahsd fkjhas kjhasdf
 aksjh flkjahs fkjhas dfk jhas dfkjhaskljdfa

@@ -1,13 +1,27 @@
 ---
 layout: default
 ---
-{% assign speaker =  site.speakers | where:"speaker-id",page.speaker |  first %} 
-
-
+{% assign XXspeaker =  site.speakers | where:"speaker-id",page.speaker |  first %} 
 
 
 <p class="text-muted text-uppercase mb-small text-right">
- By <a href="{{ speaker.url | prepend: site.github.url }}">{{speaker.title}}</a> 
+
+ By 
+{% for speakerid in page.speaker %}
+    {% assign speaker =  site.speakers | where:"speaker-id",speakerid |  first %} 
+
+ <a href="{{ speaker.url | prepend: site.github.url }}">{{speaker.title}}</a> 
+
+ {% if forloop.last %}
+ {% break %}
+ {% endif %}
+
+ and
+
+{% endfor %}
+
+
+
  | 
  {{page.eventdate}} 
  - {{page.eventtime}}
@@ -25,6 +39,12 @@ layout: default
     </div>
 
 <div class="col-md-2">
+
+{% for speakerid in page.speaker %}
+    {% assign speaker =  site.speakers | where:"speaker-id",speakerid |  first %} 
     <img class="img-responsive img-circle" alt="" src="{{site.github.url}}/speakers/{{ speaker.image }}">
+{% endfor %}
+
+
 </div>
 </div>
