@@ -10,3 +10,17 @@
   opacity: 0.5;
   filter: alpha(opacity=90);
 }
+
+#top .social a:hover.github {
+  background-color: #555555;
+}
+#product-social p a.github {
+  background-color: #333333;
+}
+.team-member .social a.github {
+  background-color: #333333;
+}
+.team-member .social a.github,
+.team-member-detail .social a.github {
+  background-color: #333333;
+}
