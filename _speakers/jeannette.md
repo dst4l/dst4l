@@ -8,6 +8,9 @@ affiliation: DTU Library
 twitter: JEkstroem 
 email: jeek@dtu.dk
 github: jeannettee
+gplus: 
+facebook: 
+web: 
 lead: Short introduction goes here
 role: Organizer
 ---
