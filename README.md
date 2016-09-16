@@ -51,17 +51,22 @@ Each speaker should have a page in the `_speakers` directory. A speaker page sho
     fullname: John Doe
     shortname: John 
     image: speaker.gif
-    affiliation: NSA
+    affiliation: Example Inc.
     twitter: johndoe
-    email: "johndoe@nsa.gov"
+    email: "johndoe@example.com"
     github: johndoe
+    gplus: +JohnDoe
+    facebook: john.doe.9
+    web: http://myblog.example.com/
     lead: "John is a leader in annonymity on the net, and IRL"
-    role: Placeholder
+    role: Example Speaker
     ---
 
-    A longer description of the speaker goes here...
+    A longer description of the speaker goes here... This can include any MarkDown (or even html if you use the .html extension for the speaker.)
 
-Hopefully most of the metadata is self explanatory. The `speaker-id`should be unique, and is used as reference from events (presenetations/workshops)
+Hopefully most of the metadata is self explanatory. The `speaker-id`should be unique, and is used as reference from events (presenetations/workshops). It is case sensitive, so we recommend to use only lowercase lettes.
+
+
 
 
 
