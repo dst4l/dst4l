@@ -38,3 +38,7 @@
 .team-member-detail .social a.web {
   background-color: #333355;
 }
+
+.btn-primary a {
+  color: white;
+}
