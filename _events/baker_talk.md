@@ -1,13 +1,13 @@
 ---
-title: James Baker´s talk
+title: James Baker and Thomas Padillo workshop
 subtitle: Source Caster/Shell 4 Lib
 location: DTU Library
-speaker: james
+speaker: [ james, thomas ]
 eventdate: "December 7th, 2016"
 eventtime: "13.00-17.00"
 ---
 
-waiting for final content from James Baker
+James Baker and Thomas Padillo having a joing workshop
 
 Talk is about Lorem ipsum lhjas fkjh askljdfh aklsjhf kajhs fkjahsd fkjhas kjhasdf
 aksjh flkjahs fkjhas dfk jhas dfkjhaskljdfa
