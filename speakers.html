@@ -33,13 +33,14 @@ layout: base
 
             <div class="row">
 
+            {% assign numspeakers = 0 %}
             {% for speaker in site.speakers %}
 
                 <div class="col-md-3 col-sm-3">
                     <div class="team-member" data-animate="fadeInUp">
                         <div class="image">
                             <a href="{{ speaker.url | prepend: site.github.url }}">
-                                <img src="speakers/{{speaker.image}}" alt="" style="max-height:220px" class="img-responsive img-circle center-block">
+                                <img src="speakers/{{speaker.image}}" alt="" style="max-height:200px" class="img-responsive img-circle center-block">
                             </a>
                         </div>
                         <h3><a href="{{ speaker.url | prepend: site.github.url }}">{{speaker.fullname}}</a></h3>
@@ -54,6 +55,12 @@ layout: base
                     </div>
                     <!-- /.team-member -->
                 </div>
+
+                {% capture numspeakers %}{{ numspeakers | plus: 1 }}{% endcapture %}
+                {% if numspeakers == "4" %}
+                    </div><div class="row">
+                    {% assign numspeakers = 0  %}
+                {% endif %}
 
             {% endfor %}
 
