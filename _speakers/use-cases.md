@@ -1,13 +1,14 @@
+
 ---
-speaker-id: ??
-title: to be announced
+speaker-id: [anton, jakob, henriette ]
+title: Three use cases from data scientist
 fullname:
 shortname:
 image: speaker.gif
 affiliation:
 twitter:
 email:
-lead: Short introduction goes here
+lead:
 role: Workshop trainer
 ---
 

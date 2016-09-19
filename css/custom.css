@@ -24,3 +24,21 @@
 .team-member-detail .social a.github {
   background-color: #333333;
 }
+
+#top .social a:hover.web {
+  background-color: #555555;
+}
+#product-social p a.web {
+  background-color: #333355;
+}
+.team-member .social a.web {
+  background-color: #333355;
+}
+.team-member .social a.web,
+.team-member-detail .social a.web {
+  background-color: #333355;
+}
+
+.btn-primary a {
+  color: white;
+}

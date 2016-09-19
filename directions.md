@@ -6,7 +6,7 @@ main_nav: false
 
 # DST4L - Practical information
 
-This guide will provide you with information about how to get to DST4L in Copenhagen from 7th to 9th of December 2016.
+This guide will provide you with information about how to get to DST4L in Copenhagen, from 7th to 9th of December 2016.
 
 * How to get around in general
 * How to get to Copenhagen from the Airport
@@ -20,7 +20,7 @@ There are two ways to transport yourself around in Copenhagen. By public transpo
 
 * Travel planners
   * The official one is called [http://www.rejseplanen.dk/](http://www.rejseplanen.dk)
-  * But Copenhagen is also pretty good covered by Google Maps.
+  * But Copenhagen is also pretty well covered by Google Maps.
 
 * Public transport in Copenhagen consists of
 
@@ -30,8 +30,8 @@ There are two ways to transport yourself around in Copenhagen. By public transpo
       * Btw. if you see a construction site in the city of Copenhagen it is probably related to the undergoing expansion of the Metro in Copenhagen.
 
     * S-tog (City train)
-      * S-tog connects most of the major Copenhagen with train lines
-      * Most important line is Line A and E that connects the Central Station (Hovedbanegården) and Nørreport with Lyngby (where DTU is located)
+      * S-tog connects most of greater Copenhagen with train lines
+      * Most important lines are Line A and Line E that connect the Central Station (Hovedbanegården) and Nørreport Station with Lyngby Station (where DTU is located)
 
     * Busses
       * Copenhagen is connected with a vast network of Busses
@@ -44,7 +44,7 @@ There are two ways to transport yourself around in Copenhagen. By public transpo
 
 * Bicycles – if you want to transport yourself like the Danes you should travel by bicycle.
     * Many locals go the 15 km from Copenhagen to DTU every day.
-    * Here’s a list of Bike rentals: [http://www.visitcopenhagen.com/search/editorial/global?keys=copenhagen%20copenhagen%20bike%20rentals](http://www.visitcopenhagen.com/search/editorial/global?keys=copenhagen%20copenhagen%20bike%20rentals)
+    * Here’s a list of Bike Rentals (remember to rent a helmet): [http://www.visitcopenhagen.com/search/editorial/global?keys=copenhagen%20copenhagen%20bike%20rentals](http://www.visitcopenhagen.com/search/editorial/global?keys=copenhagen%20copenhagen%20bike%20rentals)
 
 ## How to get to Copenhagen from the Airport
 
@@ -68,5 +68,5 @@ Cheap options are available at one of the recommended Hostels in the city like [
 If you still prefer to stay in Lyngby – your best alternative is Bed and Breakfast like [Airbnb](https://www.airbnb.dk/s/DTU--Kongens-Lyngby--Danmark?ss_id=yoipe4ft)
 
 ## Programme
-The always up-to-date programme can be found here: [http://www.dst4l.info/schedule/](http://www.dst4l.info/schedule/)
-Most importantly to know is that we start everyday at 9.00 am sharp and that DST4L ends on the 9th of December at 16.00.
+The always up-to-date programme can be found here: [http://www.dst4l.info/schedule/](http://www.dst4l.info/schedule/) Please note that the workshop starts everyday at 9.00 am sharp. Participants are expected to be present through the entire workshop days.
+The DST4L ends on the 9th of December at 17.00.

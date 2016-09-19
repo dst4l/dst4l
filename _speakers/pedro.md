@@ -7,9 +7,6 @@ image: pedro.jpg
 affiliation: DTU Management
 twitter: parraguezr
 email: ppru@dtu.dk
-lead: Short introduction goes here
-role: Workshop trainer
+lead:
+role: Researcher 
 ---
-
-Longer introduction goes here Lorem ipsum kja sdfkjh askhj akjsh flkjahs
-ælajhs dfklj haskjhf asdf

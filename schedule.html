@@ -3,7 +3,6 @@ layout: default
 title: Schedule
 ---
 
-
 {% assign grpevents = (site.events | group_by: 'eventdate' | sort: 'name' )  %}
 {% for day in  grpevents  %}
 <h3>{{day.name}}</h3>
@@ -13,14 +12,14 @@ title: Schedule
 
 
         <h4>
-            {{event.eventtime}} 
+            {{event.eventtime}}
             - <a href="{{ event.url | prepend: site.github.url }}">{{event.title}}</a>
             <i>
 
             {% for speakerid in event.speaker %}
-                {% assign speaker =  site.speakers | where:"speaker-id",speakerid |  first %} 
+                {% assign speaker =  site.speakers | where:"speaker-id",speakerid |  first %}
 
-                -  <a href="{{ speaker.url | prepend: site.github.url }}">{{speaker.fullname}}</a> 
+                -  <a href="{{ speaker.url | prepend: site.github.url }}">{{speaker.fullname}}</a>
 
                 {% if speaker == null %}
                 {{ speakerid }}?

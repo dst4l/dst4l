@@ -1,15 +1,18 @@
+
 ---
 speaker-id: johndoe
 title: John Doe
 fullname: John Doe
-shortname: John 
+shortname: John
 image: speaker.gif
 affiliation: NSA
 twitter: johndoe
 email: "johndoe@nsa.gov"
 github: johndoe
+web: https://en.wikipedia.org/wiki/John_Doe
 lead: "John is a leader in annonymity on the net, and IRL"
 role: Placeholder
+
 ---
 
 This speaker profile serves as a template for new speakers.

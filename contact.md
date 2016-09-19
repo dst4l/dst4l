@@ -3,7 +3,28 @@ layout: default
 title: Contact
 ---
 
+#### If you have any questions about DST4L, please contact Jeannette Ekstrøm from DTU Library.
+<br>
+<br>
 
-Do you have any questions about DST4L, then get in touch with Jeannette Ekstrøm from DTU Library
+#### Telephone: +45 45257416 <br />
+#### Email: <a href="mailto:jeek@dtu.dk">jeek@dtu.dk</a> <br />
+#### Twitter: @JEkstroem <br />
 
-Contact her via phone +45 45257416, email [jeek@dtu.dk](email://jeek@dtu.dk) or tweet her @JEkstroem.
+
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
