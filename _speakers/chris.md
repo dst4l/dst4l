@@ -9,7 +9,7 @@ twitter: libcce
 email: ccerdman@ncsu.edu
 github: libcce
 web: https://www.linkedin.com/in/christopher-erdmann-1213a456
-lead: Short introduction goes here
+lead: 
 Role: Facilitator
 
 ---

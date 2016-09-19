@@ -1,15 +1,14 @@
+
 ---
 speaker-id: pragma
-title: Pragma
-fullname: Pragma
-shortname: Pragma
+fullname: to be announced
+shortname: to be announced
 image: speaker.gif
-affiliation: Pragma
+affiliation:
 twitter:
 email:
-lead: Short introduction goes here
+lead:
 role: Workshop trainer
 ---
 
-Longer introduction goes here Lorem ipsum kja sdfkjh askhj akjsh flkjahs
-ælajhs dfklj haskjhf asdf
+The organizers are still waiting for final confirmation from Git/GitHub trainers

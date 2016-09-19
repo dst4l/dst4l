@@ -1,3 +1,4 @@
+
 ---
 speaker-id: [anton, jakob, henriette ]
 title: Three use cases from data scientist
@@ -7,7 +8,7 @@ image: speaker.gif
 affiliation:
 twitter:
 email:
-lead: Short introduction goes here
+lead:
 role: Workshop trainer
 ---
 

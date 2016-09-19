@@ -1,8 +1,8 @@
 ---
 speaker-id: stavris
 title: Stavris
-fullname:
-shortname:
+fullname: Stavris Solo  
+shortname: Stavris
 image: speaker.gif
 affiliation:
 twitter:
@@ -11,8 +11,5 @@ lead:
 role: Workshop trainer
 ---
 
-how to use Tableau in your work life..
-hands on workshop
-
-Longer introduction goes here Lorem ipsum kja sdfkjh askhj akjsh flkjahs
-ælajhs dfklj haskjhf asdf
+How to use Tableau in your work life..
+Hands on workshop.

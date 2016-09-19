@@ -1,3 +1,4 @@
+
 ---
 speaker-id: johndoe
 title: John Doe
@@ -11,6 +12,7 @@ github: johndoe
 web: https://en.wikipedia.org/wiki/John_Doe
 lead: "John is a leader in annonymity on the net, and IRL"
 role: Placeholder
+
 ---
 
 This speaker profile serves as a template for new speakers.

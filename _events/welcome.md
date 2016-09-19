@@ -1,5 +1,5 @@
 ---
-title: Welcome and formal information about the workshop days
+title: Warm welcome and introduction to the 3 workshop days
 subtitle:
 location: DTU Library
 speaker: organizers
