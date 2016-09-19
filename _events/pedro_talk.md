@@ -4,7 +4,7 @@ subtitle: working with Tableau to visualize data
 location: DTU Library
 speaker: pedro
 eventdate: "December 9th, 2016"
-eventtime: "14.00-15:00"
+eventtime: "15.00-16:00"
 ---
 
 waiting for more info from Pedro
