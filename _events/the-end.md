@@ -1,5 +1,5 @@
 ---
-title: The End"
+title: The End
 subtitle:
 location: DTU Library
 speaker:

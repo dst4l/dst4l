@@ -1,7 +1,7 @@
 ---
 speaker-id: thomas
-title: Thomas Padillo
-fullname: Thomas Padillo
+title: Thomas Padilla
+fullname: Thomas Padilla
 shortname: Thomas
 image: padilla_headshot.jpg
 affiliation: University of California, Santa Barbara
@@ -13,7 +13,7 @@ role: Workshop trainer
 ---
 
 
-James Baker and Thomas Padillo are having a joint workshop - more on this later.
+James Baker and Thomas Padilla are having a joint workshop - more on this later.
 
 Thomas Padilla is Humanities Data Curator at the University of California Santa Barbara.
 He publishes, presents, and teaches widely on Humanities data, data curation, and data information literacy. Thomas is a member of <a href="http://www.globaloutlookdh.org/">the Global Outlook : Digital Humanities Executive Council</a>, and an Editor for <a href="http://dhcommons.org/journal/issue-1">DHCommons Journal</a> and dh + lib <a href="http://acrl.ala.org/dh/category/data-praxis/">Data Praxis</a>.

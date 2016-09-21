@@ -8,4 +8,4 @@ eventtime: "09.00-10.00"
 ---
 
 
-## We look forward to see you all in December
+## We look forward to seeing you all in December

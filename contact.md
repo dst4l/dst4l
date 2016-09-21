@@ -3,7 +3,7 @@ layout: default
 title: Contact
 ---
 
-#### If you have any questions about DST4L, please contact Jeannette Ekstrøm from DTU Library.
+If you have any questions about DST4L, please contact Jeannette Ekstrøm from DTU Library.
 <br>
 <br>
 

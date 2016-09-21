@@ -49,7 +49,7 @@ There are two ways to transport yourself around in Copenhagen. By public transpo
 ## How to get to Copenhagen from the Airport
 
 Copenhagen airport is well connected with bus, train and metro lines going to the city.
-On the Copenhagen Airport web site you find more information: <http://www.cph.dk/en/parking-transport/bus-train-metro/>
+On the Copenhagen Airport website you find more information: <http://www.cph.dk/en/parking-transport/bus-train-metro/>
 If you are going straight to DTU from the Airport catch the M2 to Nørreport and catch 150S or 173E from there to Rævehøjvej/DTU. Check the details here: [http://www.dtu.dk/english/About/Practical-information/Directions/DTU-Lyngby-Campus/public-transportation](http://www.dtu.dk/english/About/Practical-information/Directions/DTU-Lyngby-Campus/public-transportation) . It takes approx. 54 minutes.
 
 ## How to get to the Technical University of Denmark (DTU) and DTU Library
