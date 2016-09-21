@@ -2,7 +2,7 @@
 title: GitHub Workshop continued
 subtitle: a Code Academy workshop facilitated by a danish company
 location: DTU Library
-speaker: pragma
+speaker: praqma
 eventdate: "December 8th, 2016"
 eventtime: "13:00-17:30"
 ---
