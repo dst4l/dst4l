@@ -1,13 +1,13 @@
 ---
 title: Use cases by 3 data scientists
-subtitle: ?, ? and Henriette Roued-Cunliffe
+subtitle: Henriette Roued-Cunliffe, and ? and ?
 location: DTU Library
 speaker: henriette
 eventdate: "December 7th, 2016"
 eventtime: "10.30-12.00"
 ---
 
-Waiting for final confirmation - but we expect to have 3 use cases by scientist - working with data and dealing with new ways of searching, getting information and visualizing.
+Waiting for final confirmation - but we expect to have 3 use cases by scientists - working with data and dealing with new ways of searching, getting information and visualizing.
 
 
 Henriette Roued-Cunliffe will present "The importance of open heritage data".
