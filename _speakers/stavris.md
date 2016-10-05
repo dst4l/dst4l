@@ -1,15 +1,14 @@
 ---
 speaker-id: stavris
-title: Stavris
+title: Stavris Solo
 fullname: Stavris Solo  
 shortname: Stavris
-image: speaker.gif
-affiliation:
+image: StavrisProfile.jpg
+affiliation: The Royal School of Library and Information Science
 twitter:
-email:
+email: stavris.solo@hum.ku.dk  
 lead:
+Web: https://www.linkedin.com/stavris-solo-30797369
 role: Workshop trainer
 ---
-
-How to use Tableau in your work life..
-Hands on workshop.
+IT Consultant / Engineer at the Royal School of Library and Information Science, Copenhagen University
