@@ -9,7 +9,7 @@ twitter: j_w_baker
 email: Baker@sussex.ac.uk
 github: drjwbaker
 lead:
-Web: https://cradledincaricature.com
+web: https://cradledincaricature.com
 role: Workshop trainer
 ---
 

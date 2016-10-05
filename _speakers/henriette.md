@@ -7,7 +7,7 @@ affiliation: Royal School of Library and Information Science
 twitter: henrietteroued
 email: roued@hum.ku.dk
 lead:
-Web: http://iva.ku.dk/ansatte/?pure=da/persons/476477
+web: http://iva.ku.dk/ansatte/?pure=da/persons/476477
 role: Workshop trainer
 ---
 
