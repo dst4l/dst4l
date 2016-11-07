@@ -6,7 +6,7 @@ shortname: James
 image: baker-james_pic.png
 affiliation: School of History, Art History and Philosophy at the University of Sussex
 twitter: j_w_baker
-email: Baker@sussex.ac.uk
+email: James.Baker@sussex.ac.uk
 github: drjwbaker
 lead:
 web: https://cradledincaricature.com
