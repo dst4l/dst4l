@@ -1,8 +1,8 @@
 ---
-title: GitHub Workshop
+title: GitHub as a collaboration tool
 subtitle: A Code Academy workshop facilitated by a Danish company
 location: DTU Library
-speaker: praqma
+speaker: [ jan, thierry ]
 eventdate: "December 8th, 2016"
 eventtime: "09:00-12:00"
 ---

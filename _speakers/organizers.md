@@ -10,9 +10,18 @@ email:
 github:
 gplus:
 facebook:
-web:
-lead: 
+web: http://www.dst4l.info
+web: http://dst4l.slack.com 
+lead:
 role: Organizing committee 2016
 ---
 
-We are pleased to welcome you all to DST4L 2016. Registration is open from September 20th to October 9th 2016. After evaluation/peer review of your application you can expect to receive the final confirmation about your partication medio October 2016
+We are pleased to welcome you all to DST4L 2016 in Copenhagen in Decemberber.
+It has been fun, challenging and educational to plan and arrange DST4L - and we hope you would like to share your knowledge and experiences via twitter during the days and after - #DST4L
+
+<p>Feel free to contact us:</p>
+
+- Michael Svendsen: <misv@kb.dk>
+- Kasper Bøgh: <kasb@dtu.dk>
+- Lorna Wildgaard: <lorna.wildgaard@hum.ku.dk>
+- Jeannette Ekstrøm: <jeek@dtu.dk>

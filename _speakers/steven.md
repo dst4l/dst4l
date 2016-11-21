@@ -1,13 +1,15 @@
 ---
 speaker-id: steven
 title: Steven Adler
-fullname: Steven Adler, Chief Data Scientist
+fullname: Steven Adler
 shortname: Steven
 image: StevenAdler_01.png
 affiliation: IBM
 twitter: DataGov
-email: 
+email: adler1@us.ibm.com
 URL: https://www.linkedin.com/in/adlersteven
 lead:
-role: Workshop facilitator
+role: Speaker
 ---
+
+Steve Adler is IBM's Chief Information Strategist and has been a leader in Information strategy and technology development at IBM for almost 20 years.
