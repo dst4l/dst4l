@@ -6,9 +6,9 @@ shortname: Thomas
 image: padilla_headshot.jpg
 affiliation: University of California, Santa Barbara
 twitter: thomasgpadilla
-email:
+email: tgpadillajr@gmail.com
 github:
-lead:
+web: http://www.thomaspadilla.org 
 role: Workshop trainer
 ---
 

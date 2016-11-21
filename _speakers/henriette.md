@@ -1,5 +1,6 @@
 ---
 speaker-id: henriette
+title: Henriette Roued-Cunliffe
 fullname: Henriette Roued-Cunliffe
 shortname: Henriette
 image: henriette.jpg
@@ -8,7 +9,7 @@ twitter: henrietteroued
 email: roued@hum.ku.dk
 lead:
 web: http://iva.ku.dk/ansatte/?pure=da/persons/476477
-role: Workshop trainer
+role: Researcher
 ---
 
 
