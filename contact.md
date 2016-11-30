@@ -7,9 +7,9 @@ If you have any questions about DST4L, please contact Jeannette Ekstrøm from DT
 <br>
 <br>
 
-#### Telephone: +45 45257416 <br />
-#### Email: <a href="mailto:jeek@dtu.dk">jeek@dtu.dk</a> <br />
-#### Twitter: @JEkstroem <br />
+- Telephone: +45 45257416 <br />
+- Email: <a href="mailto:jeek@dtu.dk">jeek@dtu.dk</a> <br />
+- Twitter: @JEkstroem <br />
 
 
 
