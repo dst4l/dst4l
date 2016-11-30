@@ -1,4 +1,5 @@
 ---
+title: "Thinking critically about digital data collection: Twitter and beyond"
 subtitle:
 location: DTU Library
 speaker: rebekah
