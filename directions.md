@@ -49,14 +49,14 @@ There are two ways to transport yourself around in Copenhagen. By public transpo
 ## How to get to Copenhagen from the Airport
 
 Copenhagen airport is well connected with bus, train and metro lines going to the city.
-On the Copenhagen Airport website you find more information: <http://www.cph.dk/en/parking-transport/bus-train-metro/>
-If you are going straight to DTU from the Airport catch the M2 to Nørreport and catch 150S or 173E from there to Rævehøjvej/DTU. Check the details here: [http://www.dtu.dk/english/About/Practical-information/Directions/DTU-Lyngby-Campus/public-transportation](http://www.dtu.dk/english/About/Practical-information/Directions/DTU-Lyngby-Campus/public-transportation) . It takes approx. 54 minutes.
+On the Copenhagen Airport website you find more information: <https://info.parkering.cph.dk/en/buses-trains-and-metro>
+If you are going straight to DTU from the Airport catch the M2 to Nørreport and catch 150S or 173E from there to Rævehøjvej/DTU. Check the details here: [http://www.dtu.dk/english/about/campuses/dtu-lyngby-campus/getting-there/public-transportation](http://www.dtu.dk/english/about/campuses/dtu-lyngby-campus/getting-there/public-transportation) . It takes approx. 54 minutes.
 
 ## How to get to the Technical University of Denmark (DTU) and DTU Library
 
 DST4L is located in the main library building at DTU. [See the map for location](http://www.dtu.dk/-/media/DTUdk/Om_DTU/Praktisk%20information/Kort%20over%20DTU/lyngby_kort_dk.ashx)
 To get to DTU catch the 150S or 173E from there to Rævehøj/DTU and follow the crowd on foot towards DTU.
-Read  more details here: [http://www.dtu.dk/english/About/Practical-information/Directions/DTU-Lyngby-Campus](http://www.dtu.dk/english/About/Practical-information/Directions/DTU-Lyngby-Campus)
+Read  more details here: [http://www.dtu.dk/english/about/campuses/dtu-lyngby-campus/getting-there](http://www.dtu.dk/english/about/campuses/dtu-lyngby-campus/getting-there)
 
 ## Accomodation
 
@@ -68,5 +68,5 @@ Cheap options are available at one of the recommended Hostels in the city like [
 If you still prefer to stay in Lyngby – your best alternative is Bed and Breakfast like [Airbnb](https://www.airbnb.dk/s/DTU--Kongens-Lyngby--Danmark?ss_id=yoipe4ft)
 
 ## Programme
-The always up-to-date programme can be found here: [http://www.dst4l.info/schedule/](http://www.dst4l.info/schedule/) Please note that the workshop starts everyday at 9.00 am sharp. Participants are expected to be present through the entire workshop days.
+The always up-to-date programme can be found here: [http://www.dst4l.info/schedule](http://www.dst4l.info/schedule) Please note that the workshop starts everyday at 9.00 am sharp. Participants are expected to be present through the entire workshop days.
 The DST4L ends on the 9th of December at 17.00.
