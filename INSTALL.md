@@ -1,3 +1,9 @@
+---
+layout: default
+title: installation guide 
+main_nav: false
+---
+
 # Installation Guide for Windows
 
 Full details here: http://jekyll.tips/jekyll-casts/install-jekyll-on-windows/
