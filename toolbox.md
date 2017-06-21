@@ -135,6 +135,8 @@ Finally, all participants will need to install Open Refine/Google Refine 2.5:
 
 ----------------
 
+Bonus information from the April event with [Python for beginners](python_05042017.pdf) can be viewed from [the Trainers Github site](https://github.com/Rotendahl/DataLibrarians) or [here](https://github.com/Rotendahl/DataLibrarians/archive/master.zip)
+
 ### Supplementary inspiration:
 
 * [Library Carpentry: software skills training for library professionals](https://www.liberquarterly.eu/articles/10.18352/lq.10176/)
