@@ -1,0 +1,22 @@
+
+
+<div class="social">
+    {% if speaker.github != null %}
+        <a href="http://www.github.com/{{speaker.github}}" class="external github" data-animate-hover="pulse"><i class="fa fa-github"></i></a>
+    {% endif %}
+    {% if speaker.twitter != null %}
+        <a href="http://www.twitter.com/{{speaker.twitter}}" class="external twitter" data-animate-hover="pulse"><i class="fa fa-twitter"></i></a>
+    {% endif %}
+    {% if speaker.facebook != null %}
+        <a href="https://www.facebook.com/{{speaker.facebook}}" class="external facebook" data-animate-hover="pulse"><i class="fa fa-facebook"></i></a>
+    {% endif %}
+    {% if speaker.gplus != null %}
+        <a href="https://plus.google.com/{{speaker.gplus}}" class="external gplus" data-animate-hover="pulse"><i class="fa fa-google-plus"></i></a>
+    {% endif %}
+    {% if speaker.web != null %}
+        <a href="{{speaker.web}}" class="external web" data-animate-hover="pulse"><i class="fa fa-user"></i></a>
+    {% endif %}
+    {% if speaker.email != null %}
+        <a href="mailto:{{speaker.email}}" class="email" data-animate-hover="pulse"><i class="fa fa-envelope"></i></a>
+    {% endif %}
+</div>
